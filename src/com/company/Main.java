@@ -1,3 +1,7 @@
+
+// This is a mini project about "Guess my number".
+
+
 package com.company;
 import java.util.Scanner;
 public class Main {
